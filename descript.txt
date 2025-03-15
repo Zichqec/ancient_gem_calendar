@@ -1,17 +1,17 @@
 charset,UTF-8
 
 //——— Basic information ———
-name,Simplicity Calendar
+name,Ancient Gem Calendar
 type,calendar skin
-craftman,
-craftmanw,
-craftmanurl,
+craftman,Zichqec
+craftmanw,Zichqec
+craftmanurl,https://ukagaka.zichqec.com/
 
 //——— Table ———
 table.left,6
-table.top,53
-table.right,294
-table.bottom,258
+table.top,56
+table.right,296
+table.bottom,346
 
 
 //——— Numbers ———
