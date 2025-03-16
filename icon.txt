@@ -1,18 +1,18 @@
-default,evt0
-event,evt0
-meeting,evt0
-appointment,evt0
-reservation,evt0
-party,evt0
-date,evt0
-tv,evt0
-recording,evt0
-work,evt0
-go,evt0
+default,event/evt0
+event,event/evt1
+meeting,event/evt2
+appointment,event/evt3
+reservation,event/evt4
+party,event/evt5
+date,event/evt6
+tv,event/evt7
+recording,event/evt8
+work,event/evt9
+go,event/evt10
 
 
-cd,evt1
-game,evt1
-video,evt1
-book,evt1
-release,evt1
+cd,event/evt11
+game,event/evt11
+video,event/evt11
+book,event/evt11
+release,event/evt11

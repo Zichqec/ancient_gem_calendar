@@ -6,6 +6,7 @@ type,calendar skin
 craftman,Zichqec
 craftmanw,Zichqec
 craftmanurl,https://ukagaka.zichqec.com/
+homeurl,https://raw.githubusercontent.com/Zichqec/ancient_gem_calendar/main/
 
 //——— Table ———
 table.left,36
@@ -22,7 +23,7 @@ day.spacing,-2
 saturday.spacing,-2
 holiday.spacing,-2
 
-year.pos.x,268
+year.pos.x,260
 year.pos.y,58
 
 year.spacing,-2
@@ -37,30 +38,30 @@ current.pos.y,0
 
 
 //——— Event markers ———
-icon.left,1
-icon.top,21
-icon.right,41
-icon.bottom,41
+icon.left,5
+icon.top,26
+icon.right,37
+icon.bottom,56
 
 icon.width,10
 icon.height,10
 
 
 //——— Month names ———
-month.pos.x,30
-month.pos.y,56
+month.pos.x,44
+month.pos.y,8
 
 
 //——— Next & previous month buttons ———
-prev.left,114
-prev.top,16
-prev.right,127
-prev.bottom,28
+prev.left,162
+prev.top,60
+prev.right,188
+prev.bottom,79
 
-next.left,129
-next.top,16
-next.right,142
-next.bottom,28
+next.left,162
+next.top,406
+next.right,188
+next.bottom,425
 
 
 //——— Filenames ———
