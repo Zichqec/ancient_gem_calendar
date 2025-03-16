@@ -8,28 +8,28 @@ craftmanw,Zichqec
 craftmanurl,https://ukagaka.zichqec.com/
 
 //——— Table ———
-table.left,6
-table.top,56
-table.right,296
-table.bottom,346
+table.left,36
+table.top,106
+table.right,316
+table.bottom,406
 
 
 //——— Numbers ———
-day.pos.x,3
-day.pos.y,3
+day.pos.x,8
+day.pos.y,5
 
-day.spacing,0
-saturday.spacing,0
-holiday.spacing,0
+day.spacing,-2
+saturday.spacing,-2
+holiday.spacing,-2
 
-year.pos.x,230
-year.pos.y,10
+year.pos.x,268
+year.pos.y,58
 
-year.spacing,0
+year.spacing,-2
 
 
 //——— Day markers ———
-today.pos.x,26
+today.pos.x,0
 today.pos.y,0
 
 current.pos.x,0
@@ -47,8 +47,8 @@ icon.height,10
 
 
 //——— Month names ———
-month.pos.x,10
-month.pos.y,10
+month.pos.x,30
+month.pos.y,56
 
 
 //——— Next & previous month buttons ———
@@ -65,10 +65,10 @@ next.bottom,28
 
 //——— Filenames ———
 day.filename,numbers/num
-saturday.filename,numbers/nums
-holiday.filename,numbers/numh
+saturday.filename,numbers/num
+holiday.filename,numbers/num
 
-year.filename,numbers/num
+year.filename,numbers/numy
 month.filename,months/month
 
 today.filename,today
